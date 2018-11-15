@@ -1,4 +1,6 @@
-package org.usfirst.frc.team3158.robot;
+package org.usfirst.frc.team3158.robot.subsystems;
+
+import org.usfirst.frc.team3158.robot.Navx;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 

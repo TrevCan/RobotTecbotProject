@@ -1,7 +1,7 @@
 package org.usfirst.frc.team3158.robot.commands.gyro;
 
-import org.usfirst.frc.team3158.robot.GyroSubsystem;
 import org.usfirst.frc.team3158.robot.Robot;
+import org.usfirst.frc.team3158.robot.subsystems.GyroSubsystem;
 
 import edu.wpi.first.wpilibj.command.Command;
 

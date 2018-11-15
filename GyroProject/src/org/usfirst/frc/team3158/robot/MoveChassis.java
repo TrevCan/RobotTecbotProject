@@ -18,8 +18,7 @@ public class MoveChassis extends Subsystem {
     	
 		
 		
-	}
-	
+	}	
 	
 	public void initDefaultCommand() {
     	this.setDefaultCommand(new DriveCommand());
@@ -48,4 +47,3 @@ public class MoveChassis extends Subsystem {
 	}
 	
 }
-

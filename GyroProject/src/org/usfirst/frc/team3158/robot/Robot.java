@@ -11,6 +11,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 import org.usfirst.frc.team3158.robot.commands.gyro.GyroMeasureCommand;
+import org.usfirst.frc.team3158.robot.subsystems.GyroSubsystem;
 
 //GYROSCOPOE LIBRARY
 import com.kauailabs.navx.*;
